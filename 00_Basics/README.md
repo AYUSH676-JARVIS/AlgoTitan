@@ -1,5 +1,5 @@
 Basics - DSA Foundation
- Overview
+Overview
 This folder contains basic programming problems that build the foundation for Data Structures and Algorithms (DSA).
 Before solving advanced problems, it is important to have a strong grip on:
 	•	Logic building
@@ -29,5 +29,7 @@ After completing this folder, you will be able to:
 	•	Write clean and logical code
 	•	Understand problem patterns
 	•	Transition smoothly to DSA topics
+Author
+Ayush Tripathi
 
 
